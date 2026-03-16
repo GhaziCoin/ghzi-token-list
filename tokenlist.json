@@ -1,19 +1,22 @@
 {
- "name": "GHZI Token List",
- "timestamp": "2026-03-16T00:00:00Z",
- "version": {
-  "major": 1,
-  "minor": 0,
-  "patch": 0
- },
- "tokens": [
-  {
-   "chainId": 56,
-   "address": "0x4BEB9b7CD7B19D8142Bd409Bd9b9448bd16b304d",
-   "name": "Ghazi Coin",
-   "symbol": "GHZI",
-   "decimals": 18,
-   "logoURI": "https://ghazicoin.com/logoghzi150x150.png"
-  }
- ]
+  "name": "PancakeSwap Default List",
+  "timestamp": "2026-03-16T12:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/GhaziCoin/ghzi-token-list/main/logo.png",
+  "keywords": ["pancakeswap", "ghzi", "binance"],
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x4BEB9b7CD7B19D8142Bd409Bd9b9448bd16b304d",
+      "name": "Ghazi Coin",
+      "symbol": "GHZI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/GhaziCoin/ghzi-token-list/main/logo.png"
+    }
+  ]
 }
